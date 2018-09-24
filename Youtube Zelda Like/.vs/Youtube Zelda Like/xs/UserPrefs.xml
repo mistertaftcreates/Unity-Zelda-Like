@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CCA9D27B-CE13-51A6-4806-432F0C9DEC5F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Knockback.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="43" Column="86" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="33" Column="74" />
+      <File FileName="Assets/Scripts/RoomMove.cs" Line="35" Column="47" />
+      <File FileName="Assets/Scripts/Sign.cs" Line="45" Column="40" />
+      <File FileName="Assets/Scripts/pot.cs" Line="22" Column="35" />
+      <File FileName="Assets/Scripts/PlayerHit.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="27" Column="32" />
+      <File FileName="Assets/Scripts/log.cs" Line="36" Column="54" />
+      <File FileName="Assets/Scripts/Knockback.cs" Line="14" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
