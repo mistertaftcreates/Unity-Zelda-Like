@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{01DCF3E1-6A74-7F5B-F7ED-841E919A2B3A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScriptableObjects/Inventory.cs" Line="25" Column="16" />
+      <File FileName="Assets/Scripts/Game Stuff/MagicManager.cs" Line="23" Column="45" />
+      <File FileName="Assets/Scripts/Objects/MagicPowerup.cs" Line="20" Column="56" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerMovement.cs" Line="187" Column="39" />
+      <File FileName="Assets/Scripts/Objects/Arrow.cs" Line="11" Column="28" />
+      <File FileName="Assets/Scripts/Objects/Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScriptableObjects/FloatValue.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/Objects/Powerup.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/HeartManager.cs" Line="31" Column="22" />
+      <File FileName="Assets/Scripts/Objects/HeartContainer.cs" Line="17" Column="38" />
+      <File FileName="Assets/Scripts/Game Stuff/OverworldRoom.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/Room.cs" Line="49" Column="40" />
+      <File FileName="Assets/Scripts/Game Stuff/MainMenu.cs" Line="27" Column="28" />
+      <File FileName="Assets/Scripts/Game Stuff/PauseManager.cs" Line="46" Column="29" />
+      <File FileName="Assets/Scripts/Game Stuff/TimelineManager.cs" Line="26" Column="67" />
+      <File FileName="Assets/Scripts/NPC/BoundedNPC.cs" Line="5" Column="31" />
+      <File FileName="Assets/Scripts/Objects/Interactable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Objects/Sign.cs" Line="18" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="29370513-e20e-4bca-9d95-a25c36a8b75d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
