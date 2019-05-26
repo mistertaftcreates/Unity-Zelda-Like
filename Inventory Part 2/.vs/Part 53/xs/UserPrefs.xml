@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{01DCF3E1-6A74-7F5B-F7ED-841E919A2B3A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Inventory/InventoryItem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Stuff/GameSaveManager.cs" Line="20" Column="21" />
+      <File FileName="Assets/Scripts/ScriptableObjects/BoolValue.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/ScriptableObjects/FloatValue.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Inventory.cs" Line="6" Column="21" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Item.cs" Line="6" Column="21" />
+      <File FileName="Assets/Scripts/ScriptableObjects/VectorValue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/HeartManager.cs" Line="28" Column="14" />
+      <File FileName="Assets/Scripts/Inventory/InventoryItem.cs" Line="13" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a2a3be8b-0557-4f27-8740-3f53f9e3f608" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

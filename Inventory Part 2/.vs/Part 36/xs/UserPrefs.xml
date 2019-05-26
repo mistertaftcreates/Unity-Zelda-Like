@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2FD2FBAC-2F25-9946-AEC0-2D04EE155904}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Objects/Coin.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Objects/Door.cs" Line="46" Column="41" />
+      <File FileName="Assets/Scripts/Objects/Interactable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Objects/Sign.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Objects/RoomMove.cs" Line="32" Column="21" />
+      <File FileName="Assets/Scripts/Player Scripts/HeartManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/CameraMovement.cs" Line="13" Column="35" />
+      <File FileName="Assets/Scripts/Objects/SceneTransition.cs" Line="16" Column="37" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="32" Column="27" />
+      <File FileName="Assets/Scripts/Objects/Powerup.cs" Line="9" Column="5" />
+      <File FileName="Assets/Scripts/Objects/Coin.cs" Line="12" Column="31" />
+      <File FileName="Assets/Scripts/ScriptableObjects/Inventory.cs" Line="11" Column="22" />
+      <File FileName="Assets/Scripts/Objects/Heart.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/Game Stuff/CoinTextManager.cs" Line="13" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
