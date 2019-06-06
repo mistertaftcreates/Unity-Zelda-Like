@@ -1,0 +1,20 @@
+{
+    "name": "Unity.ProBuilder.Editor",
+    "references": [
+        "Unity.ProBuilder",
+        "Unity.ProBuilder.AssetIdRemapUtility",
+        "Unity.ProBuilder.Settings.Editor",
+        "Unity.ProBuilder.Stl"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": []
+}

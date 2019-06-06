@@ -1,0 +1,15 @@
+{
+	"name": "com.unity.progrids",
+	"displayName":"ProGrids",
+	"version": "3.0.3-preview.4",
+	"unity": "2018.1",
+	"description": "Advanced grid and object snapping for the scene view. ProGrids is a dynamically placed grid, available on all 3 axes and at any position in the scene.\n\nProGrids snaps objects in world space, ensuring consistent placement of objects in your level.\n\nIn addition, ProGrids is completely customizable. Change the colors of your grid, the snap sizing, unit of measurement, and more!",
+	"keywords": ["grid", "snap", "manipulation", "array", "align"],
+	"dependencies": {
+	},
+	    "repository": {
+        "type": "git",
+        "url": "https://github.com/Unity-Technologies/com.unity.progrids.git",
+        "revision": "8c99f5e31791759316786f77c64cfa9b57f03ff6"
+    }
+}

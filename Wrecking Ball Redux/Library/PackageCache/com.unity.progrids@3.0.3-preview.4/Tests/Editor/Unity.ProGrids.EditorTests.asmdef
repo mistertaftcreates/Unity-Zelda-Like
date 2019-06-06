@@ -1,0 +1,16 @@
+{
+    "name": "Unity.ProGrids.Editor.Tests",
+    "references": [
+        "Unity.ProGrids.Editor",
+        "Unity.ProGrids",
+        "Unity.ProGrids.RuntimeTests"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

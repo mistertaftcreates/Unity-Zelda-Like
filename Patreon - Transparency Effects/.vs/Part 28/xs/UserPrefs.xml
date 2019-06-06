@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{13ED4F77-B750-ADDC-F4DA-FB374A3A7804}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Sign.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneTransition.cs" Line="29" Column="38" />
+      <File FileName="Assets/Scripts/ScriptableObjects/VectorValue.cs" Line="10" Column="1" />
+      <File FileName="../Part 28 copy/Assets/Scripts/Game Management/SceneTransition.cs" Line="1" Column="1" />
+      <File FileName="../Part 28 copy/Assets/Scripts/ScriptableObjects/VectorValue.cs" Line="1" Column="1" />
+      <File FileName="../Part 28 copy/Assets/Scripts/Player/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/ContextClue.cs" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/Sign.cs" Line="47" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
