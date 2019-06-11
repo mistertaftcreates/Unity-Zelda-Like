@@ -1,0 +1,18 @@
+
+
+
+	The code and structure of this package is Creative Commons Zero (CC0) licensed (see below)
+
+	The art is licensed separately also Creative Commons Zero (CC0) (see below) by user ArMM1998 from opengameart.org
+
+	Please do not distribute this package directly but instead point people to the GitHub page and opengameart.org page
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use this code for any use, personal or professional.  Credit is nice, but not mandatory.
+			------------------------------
+
+	Twitter:    http://twitter.com/taftcreates
