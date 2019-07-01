@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94af225d9903c4b9d894b93d920849dc, type: 3}
+  m_Name: Soldier Sword
+  m_EditorClassIdentifier: 
+  itemName: My Father's Sword
+  itemDescription: It's a bit rusty, but still sharp.
+  itemImage: {fileID: 21300000, guid: f194e0a2201836545b547af0cf6a965c, type: 3}
+  numberHeld: 1
+  usable: 0
+  unique: 1
+  thisEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null

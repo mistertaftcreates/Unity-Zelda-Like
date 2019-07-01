@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E6EE8006-5EFC-8E2A-4DFC-F45E33617302}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Stuff/DungeonEnemyRoom.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Objects/Door.cs" Line="23" Column="39" />
+      <File FileName="Assets/Scripts/Objects/Sign.cs" Line="19" Column="39" />
+      <File FileName="Assets/Scripts/Objects/TreasureChest.cs" Line="34" Column="40" />
+      <File FileName="Assets/Scripts/Enemy Stuff/log.cs" Line="12" Column="31" />
+      <File FileName="Assets/Scripts/Enemy Stuff/Enemy.cs" Line="42" Column="40" />
+      <File FileName="Assets/Scripts/Game Stuff/DungeonEnemyRoom.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scripts/Game Stuff/Room.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

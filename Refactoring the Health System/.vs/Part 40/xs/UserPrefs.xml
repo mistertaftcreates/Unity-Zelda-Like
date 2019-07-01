@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{55EC263D-101D-1902-C22A-1912672626AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Stuff/CameraMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Stuff/CameraMovement.cs" Line="23" Column="43" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerMovement.cs" Line="121" Column="31" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="45" Column="22" />
+      <File FileName="Assets/Scripts/Objects/SceneTransition.cs" Line="60" Column="6" />
+      <File FileName="Assets/Scripts/ScriptableObjects/VectorValue.cs" Line="10" Column="44" />
+      <File FileName="Assets/Scripts/Game Stuff/CoinTextManager.cs" Line="13" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 537c2ffbfc56f4efdbae9ff9fb7a1a31, type: 3}
+  m_Name: Mostly Magic
+  m_EditorClassIdentifier: 
+  loots:
+  - thisLoot: {fileID: 698070318612517923, guid: 915cfe52b2f244f738c758e6b838b61d,
+      type: 3}
+    lootChance: 50
+  - thisLoot: {fileID: 1936834106121088154, guid: f004b46f1747a412f91389c927f0b1e0,
+      type: 3}
+    lootChance: 25
