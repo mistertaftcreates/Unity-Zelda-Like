@@ -117,8 +117,10 @@
     <Compile Include="Assets\Scripts\Player Scripts\ContextClue.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\emotionTry.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\HeartManager.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerHit.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Reusable Components\GenericDamage.cs" />
     <Compile Include="Assets\Scripts\Reusable Components\GenericHealth.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\BoolValue.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\FloatValue.cs" />

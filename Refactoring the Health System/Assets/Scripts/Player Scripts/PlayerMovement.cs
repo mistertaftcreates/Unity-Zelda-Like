@@ -18,6 +18,12 @@ public class PlayerMovement : MonoBehaviour {
     private Vector3 change;
     private Animator animator;
 
+    // TODO Health
+    /*
+    public FloatValue currentHealth;
+    public Signal playerHealthSignal;
+    */
+
     public VectorValue startingPosition;
 
     // TODO INVENTORY Break off the player inventory into its own component
@@ -192,11 +198,12 @@ public class PlayerMovement : MonoBehaviour {
         {
             // TODO HEALTH
             playerHit.Raise();
-            
+
         }else{
             this.gameObject.SetActive(false);
         }
         */
+
     }
 
     private IEnumerator KnockCo(float knockTime)

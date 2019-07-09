@@ -1,0 +1,12 @@
+{
+    "name": "com.unity.cinemachine.editor",
+    "references": [
+        "Cinemachine"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
