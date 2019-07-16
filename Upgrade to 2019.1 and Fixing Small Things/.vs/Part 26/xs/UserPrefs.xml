@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{07DF44E3-732C-2D74-1DC0-23658B6010B4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneTransition.cs" Line="16" Column="57" />
+      <File FileName="Assets/Scripts/ScriptableObjects/VectorValue.cs" Line="8" Column="33" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="32" Column="60" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="15" Column="101" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
